@@ -1,0 +1,4 @@
+rumus : n/2 (2a + (n-1) b)
+initiate variable n (n = 199)
+initiate variable a (a = 4001)
+initiate variable b (b = 1)
